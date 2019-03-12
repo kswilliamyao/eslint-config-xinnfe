@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-xinnfe",
+  "version": "1.0.0",
+  "description": "ESLint Config for xinn fe team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kswilliamyao/eslint-config-xinnfe.git"
+  },
+  "keywords": [
+    "eslint",
+    "xinnfe"
+  ],
+  "author": "yao.jun@xinn.com.cn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kswilliamyao/eslint-config-xinnfe/issues"
+  },
+  "homepage": "https://github.com/kswilliamyao/eslint-config-xinnfe#readme"
+}
